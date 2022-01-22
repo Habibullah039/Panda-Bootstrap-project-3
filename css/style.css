@@ -1,0 +1,19 @@
+.slider-left-content{
+
+    margin-top:120px;
+   
+}
+
+.slider-section{
+    background-color: #FCECEA;
+    border-radius: 3px;
+}
+
+.slider-btn {
+
+    background-color: #FF5397;
+    text-transform: capitalize;
+    border: 1px solid #FF5397;
+    padding: 8px 22px;
+   
+}
