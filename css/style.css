@@ -15,7 +15,8 @@
     background-color: #FF5397;
     text-transform: capitalize;
     border: 1px solid #FF5397;
-    padding: 8px 22px;
+    padding: 6px 24px;
+    border-radius: 6px;
    
 }
 .category-img-1 {
