@@ -7,6 +7,7 @@
 .slider-section{
     background-color: #FCECEA;
     border-radius: 3px;
+   
 }
 
 .slider-btn {
@@ -16,4 +17,29 @@
     border: 1px solid #FF5397;
     padding: 8px 22px;
    
+}
+.category-img-1 {
+
+    background-color: #FFC107;
+    border-radius: 5px;
+    padding: 16px 16px;
+   color:#FCECEA;
+   text-transform: capitalize;
+  
+}
+.category-img-2 {
+
+    background-color:#198754;
+    border-radius: 5px;
+    padding: 16px 16px;
+   color:#FCECEA;
+   text-transform: capitalize;
+}
+.category-img-3 {
+
+    background-color: #FFC107;
+    border-radius: 5px;
+    padding: 16px 16px;
+   color: #FCECEA;
+   text-transform: capitalize;
 }
