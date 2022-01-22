@@ -1,3 +1,6 @@
+/* .......................custom-css......................... */
+
+
 .slider-left-content{
 
     margin-top:120px;
@@ -17,7 +20,7 @@
     border: 1px solid #FF5397;
     padding: 6px 24px;
     border-radius: 6px;
-   
+   color:#FCECEA;
 }
 .category-img-1 {
 
@@ -43,4 +46,22 @@
     padding: 16px 16px;
    color: #FCECEA;
    text-transform: capitalize;
+}
+
+.input-border {
+
+    border: 1px solid #CED4DA;
+}
+
+
+.fas {
+    color:#FF5397;
+    font-size: 40px;
+    margin-right: 150px;
+    margin-top: -68px;
+    padding: 10px 0;
+}
+
+.fas:hover{
+    transform: scale(1.2);
 }
